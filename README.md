@@ -22,7 +22,7 @@ Support data-driven healthcare decision-making.
 - What percentage of patients belong to each disease category?
 - Are there any significant age outliers within disease categories?
 
-## ## Visualization:
+ ## Visualization:
 Distribution of Age by Disease Category
 Box Plot Analysis
 Violin Plot Analysis
@@ -32,7 +32,7 @@ Identification of median age and outliers
 ## Process
 The hospital patient records dataset was collected and imported into Jupyter Notebook for analysis. Data cleaning and preprocessing were performed to ensure accuracy and consistency. Exploratory Data Analysis (EDA) was conducted using Python libraries such as Pandas, Matplotlib, and Seaborn to identify patterns and trends. Various visualizations were created to compare patient demographics and disease categories. Finally, key insights were generated to support data-driven healthcare decision-making.
 
-## dashboard
+## Dashboard
 
 
 
