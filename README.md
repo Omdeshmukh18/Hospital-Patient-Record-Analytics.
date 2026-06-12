@@ -13,13 +13,6 @@ Support data-driven healthcare decision-making.
 ## Dataset Used:
 <a href ="https://github.com/Omdeshmukh18/Hospital-Patient-Record-Analytics./blob/main/medical_records.csv">Dataset</a>
 
-## Visualization:
-Distribution of Age by Disease Category
-Box Plot Analysis
-Violin Plot Analysis
-Comparison of patient age spread across disease categories
-Identification of median age and outliers
-
 ## Questions (KPI'S)
 - What is the total number of patients in the dataset?
 - What is the average age of patients across all disease categories?
@@ -28,6 +21,19 @@ Identification of median age and outliers
 - Which disease category has the highest median age?
 - What percentage of patients belong to each disease category?
 - Are there any significant age outliers within disease categories?
+
+## ## Visualization:
+Distribution of Age by Disease Category
+Box Plot Analysis
+Violin Plot Analysis
+Comparison of patient age spread across disease categories
+Identification of median age and outliers
+
+## Process
+The hospital patient records dataset was collected and imported into Jupyter Notebook for analysis. Data cleaning and preprocessing were performed to ensure accuracy and consistency. Exploratory Data Analysis (EDA) was conducted using Python libraries such as Pandas, Matplotlib, and Seaborn to identify patterns and trends. Various visualizations were created to compare patient demographics and disease categories. Finally, key insights were generated to support data-driven healthcare decision-making.
+
+## dashboard
+
 
 
   
