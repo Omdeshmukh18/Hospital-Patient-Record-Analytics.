@@ -33,7 +33,7 @@ Identification of median age and outliers
 The hospital patient records dataset was collected and imported into Jupyter Notebook for analysis. Data cleaning and preprocessing were performed to ensure accuracy and consistency. Exploratory Data Analysis (EDA) was conducted using Python libraries such as Pandas, Matplotlib, and Seaborn to identify patterns and trends. Various visualizations were created to compare patient demographics and disease categories. Finally, key insights were generated to support data-driven healthcare decision-making.
 
 ## Dashboard:
-<a href="https://github.com/Omdeshmukh18/Hospital-Patient-Record-Analytics./blob/main/Screenshot%2011.png">Dashboard</a>
+<img width="735" height="672" alt="Screenshot 12" src="https://github.com/user-attachments/assets/bf12e737-6ba5-46ba-be5a-9ce5a2e8205a" />
 
 ## Project Insights:
 Patient records were categorized into multiple disease groups including Stroke, Diabetes, Hypertension, Heart Disease, Cancer, Nephrology, and Healthy individuals.
