@@ -29,13 +29,21 @@ Violin Plot Analysis
 Comparison of patient age spread across disease categories
 Identification of median age and outliers
 
-## Process
+## Process:
 The hospital patient records dataset was collected and imported into Jupyter Notebook for analysis. Data cleaning and preprocessing were performed to ensure accuracy and consistency. Exploratory Data Analysis (EDA) was conducted using Python libraries such as Pandas, Matplotlib, and Seaborn to identify patterns and trends. Various visualizations were created to compare patient demographics and disease categories. Finally, key insights were generated to support data-driven healthcare decision-making.
 
-## Dashboard
+## Dashboard:
 <a href="https://github.com/Omdeshmukh18/Hospital-Patient-Record-Analytics./blob/main/Screenshot%2011.png">Dashboard</a>
 
+## Project Insights:
+Patient records were categorized into multiple disease groups including Stroke, Diabetes, Hypertension, Heart Disease, Cancer, Nephrology, and Healthy individuals.
+Age distribution varies across disease categories, indicating different risk patterns.
+Diabetes and Hypertension patients generally belong to higher age groups.
+Stroke patients show a distinct age distribution compared to other categories.
+Visualization techniques helped identify variations and outliers in patient demographics.
 
+## Conclusion:
+This Hospital Patient Record Analytics project successfully analyzed patient demographic and disease-related data using Python. Through data cleaning, exploratory analysis, and visualization, valuable insights were identified regarding age distribution and disease patterns. The findings can help healthcare professionals better understand patient trends and support data-driven decision-making. Overall, the project demonstrates the effective use of data analytics techniques to extract meaningful healthcare insights and improve analytical reporting.
 
 
   
