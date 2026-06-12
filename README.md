@@ -19,3 +19,15 @@ Box Plot Analysis
 Violin Plot Analysis
 Comparison of patient age spread across disease categories
 Identification of median age and outliers
+
+## Questions (KPI'S)
+- What is the total number of patients in the dataset?
+- What is the average age of patients across all disease categories?
+- Which disease category has the highest number of patients?
+- What is the age distribution of patients by disease category?
+- Which disease category has the highest median age?
+- What percentage of patients belong to each disease category?
+- Are there any significant age outliers within disease categories?
+
+
+  
